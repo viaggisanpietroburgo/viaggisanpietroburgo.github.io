@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Le autentiche "montagne russe""
-date:   2021-02-02
-excerpt: "Il divertimento invernale russo"
-image: "/images/pista.jpg"
+title:  "La storia del pattinaggio in Russsia"
+date:   2020-02-02
+excerpt: "Così è come si svolgeva questo gioco invernale!"
+image: "/images/pattinaggio.jpg"
 ---
 
 Le discese dagli scivoli facevano parte di ogni festa invernale ed erano popolari a tutti i livelli della società. Inizialmente l’intrattenimento aveva un significato magico: si credeva che le correnti vitali accelerassero facendo risvegliare la terra dal letargo. Gli scivoli promettevano ai bambini una rapida crescita, agli sposi novelli una vita felice, mentre agli anziani una continuazione serena dell’esistenza.
