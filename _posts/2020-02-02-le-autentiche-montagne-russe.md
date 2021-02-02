@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le autentiche "montagne russe""
+title:  "Le autentiche montagne russe"
 date:   2020-02-02
 excerpt: "Divertimenti invernali"
 image: "/images/scivoli.jpg"
