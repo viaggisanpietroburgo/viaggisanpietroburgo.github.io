@@ -2,7 +2,7 @@
 title:              Viaggi San Pietroburgo
 bio:                'Visite guidate con una guida esperta'
 description:        "Visite guidate con una guida esperta"
-locale:             it_IT
+locale:             en_US
 baseurl: "viaggisanpietroburgo.github.io" # the subpath of your site, e.g. /blog
 url: "viaggisanpietroburgo.github.io" # the base hostname & protocol for your site
 
