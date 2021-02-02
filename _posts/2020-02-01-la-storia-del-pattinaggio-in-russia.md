@@ -2,7 +2,7 @@
 layout: post
 title:  "La storia del pattinaggio in Russia"
 date:   2020-02-01
-excerpt: "Così è come si svolgeva questo gioco invernale!"
+excerpt: "Il passatempo invernale più amato in Russia"
 image: "/images/pattinaggio.jpg"
 ---
 
