@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thank you for your correspondence
+title: Grazie per averci scritto
 ---
-## Thank you for your correspondence
-We are delighted to hear from you. You may expect to receive an answer soon.
+## Grazie per averci scritto!
+Siamo sempre contenti di ricevere mail! Aspettatevi una risposta a breve.
 
-Have a nice day!
+Buona giornata!
