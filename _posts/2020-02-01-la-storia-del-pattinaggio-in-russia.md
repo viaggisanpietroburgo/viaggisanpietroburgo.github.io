@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La storia del pattinaggio in Russia"
-date:   2017-10-31
+date:   2020-02-01
 excerpt: "Così è come si svolgeva questo gioco invernale!"
 image: "/images/pattinaggio.jpg"
 ---
