@@ -1,28 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
+title:  "La storia del pattinaggio in Russia"
 date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "/images/pic02.jpg"
+excerpt: "Così è come si svolgeva questo gioco invernale!"
+image: "/images/pattinaggio.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+I pattini fatti in ossa di animali e legno si producevano in Russia sin dai tempi antichi, ma il loro aspetto attuale viene associato al nome di Pietro I che fece avvitare i pattini direttamente agli stivali. La tradizione si diffuse maggiormente nel XIX secolo, quando nel 1864 nel Giardino Yusupov a S.Pietroburgo apparve il primo club di pattinaggio e la prima pista aperta al pubblico. 
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+La pista di pattinaggio più antica di Mosca è considerata quella in via Petrovka che all’epoca si chiamava "francese” per la presunta vicinanza al quartier generale di Napoleone. Sugli Stagni del Patriarca si trova un’altra pista famosa, dove Lev Tolstoj portò a pattinare i suoi figli e dove la poetessa Marina Cvetaeva incontrò il futuro marito Sergei Efron. 
 
-Open a terminal window or a command line and ```cd``` to that location.
+Le piste di pattinaggio erano un vero luogo di culto. Vi si riunivano i corritori, i giocatori di hockey, i pattinatori artistici e tutti gli appassionati di pattinaggio. Per le vacanze natalizie al centro della pista veniva installato un albero di Natale, l’arena veniva decorata con delle lampadine elettriche e intorno venivano costruite grotte, torri e casette di ghiaccio. La sera suonava l’orchestra e verso mezzanotte il cielo s’illuminava di fuochi d'artificio.
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+Il primo campionato mondiale di pattinaggio artistico si svolse sulla pista di pattinaggio del Giardino Yusupov nel 1896 con la vittoria del pattinatore monacense Gilbert Fuchs. Nel campionato presero parte solo gli uomini, mentre il diritto al campionato femminile fu ufficialmente riconosciuto solo nel 1924.
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+Nell'epoca sovietica le piste erano presenti in ogni quartiere cittadino e questo divertimento invernale rimane tutt’ora quello più diffuso e amato.
