@@ -11,14 +11,13 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Cari amici, benvenuti nel mio sito. Mi chiamo **Anastasia** e vi accompagnerò durante il vostro soggiorno a San Pietroburgo. Sarò  felice di accoglervi nella mia città natale e spero di poter trasmettervi una parte della mia passione e amore per questi luoghi.
-Mi sono laureata in sociologia all’Università statale di San Pietroburgo, vivo in Italia dal 2004 e nel 2020 ho conseguito il diploma della **guida turistica** per San Pietroburgo in italiano.
-Sono lieta di offrirvi i **seguenti servizi**:
-•	Servizi di **guida turistica italiana accredidata**.
-•	Organizzazione dei tour **“chiavi in mano”**: i programmi in base alle vostre esigenze: ricerca e prenotazione degli alberghi, prenotazione dei biglietti nei musei e teatri, noleggio auto o pulmini con autista, trasferimenti da/all’aeroporto ecc.
-•	Servizi di **traduzione ed interpretariato**.
-Potete scegliere un itinerario classico oppure uno fuori rotta dall’itineraio comune, sono alla vostra disposizione per offrirvi una vacanza dei vostri sogni. Siete appasionati della vita degli zar, o forse vi affascina il tema della rivoluzione, magari siete amanti dell’architettura o dell’arte avanguardista, oppure volete scoprire i segreti di Rasputin e vedere le opere di costruttivismo sovietico, ma forse v’interessa la vita e opera di Pietro il Grande o di Caterina II...
-Sarò ben lieta a mostrarvi San Pietroburgo, Pietrogrado e Leningrado in tutte le sue sfumature, come non l’avete mai vista prima..
+**Chiesa del Salvatore sul sangue versato**. 
+Il tempio della resurrezione di Cristo, comunemente chiamato “Tempio del Salvatore sul sangue versato”, è uno dei “biglietti da visita” di San Pietroburgo.
+La chiesa colorata, rivestita di ceramica, con le cupole ricoperte di smalto e oro zecchino, sembra provenire dalle antiche favole russe. Fu costruita sul luogo dell’attentato allo zar Allessandro II, famoso per aver abolito in Russia la servitù della gleba.
+La prima pietra della cattedrale fu posata nel  1883, ma l’inaugurazione avvenne solo 24 anni dopo, nel 1907. 
+All’interno vi sono 2 riferimenti sacri principali – un'inconostasi di marmo intagliato, opera della ditta genovese “Novi” e un baldacchino che custodisce il luogo esatto, dove lo zar fu ferito mortalmente,  insieme ad un pezzo del ciotolato del lungocanale ed un frammento della ringhiera.
+Solo la Cattedrale di San Marco a Venezia può competere con la chiesa di San Pietroburgo per l’arte musiva rappresentata all’interno: oltre 600 icone e altre composizioni decorative che occupano una superficie di 7065 mq realizzate dai maestri russi della bottega Frolov.
+Nell’epoca sovietica la chiesa veniva usata come deposito e sarebbe dovuta essere demolita in quanto “priva di valore storico e artistico”. Durante la guerra il tempio subì gravi danni: una bomba cadde sulla cupola centrale e ne rimase incastrata fino al 1977, quando furono iniziati i lavori di restauro. I lavori durarono per 24 anni, lo stesso tempo che servì per la costruzione.  Nel 1997 la chiesa fu aperta come museo ed oggi è anche un luogo di culto dove vengono regolartmente svolte le funzioni religiose.
 
 
 ### Content is Imortant
@@ -28,6 +27,6 @@ Sarò ben lieta a mostrarvi San Pietroburgo, Pietrogrado e Leningrado in tutte l
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/san salvatore.jpg" | absolute_url }}" alt="" /></span>
 
 
