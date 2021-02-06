@@ -9,9 +9,9 @@ sitemap:
 ---
 ## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/san salvatore.jpg" | absolute_url }}" alt="" /></span>
 
-**Chiesa del Salvatore sul sangue versato**. 
+**La Chiesa del Salvatore sul sangue versato**. 
 Il tempio della resurrezione di Cristo, comunemente chiamato “Tempio del Salvatore sul sangue versato”, è uno dei “biglietti da visita” di San Pietroburgo.
 La chiesa colorata, rivestita di ceramica, con le cupole ricoperte di smalto e oro zecchino, sembra provenire dalle antiche favole russe. Fu costruita sul luogo dell’attentato allo zar Allessandro II, famoso per aver abolito in Russia la servitù della gleba.
 La prima pietra della cattedrale fu posata nel  1883, ma l’inaugurazione avvenne solo 24 anni dopo, nel 1907. 
